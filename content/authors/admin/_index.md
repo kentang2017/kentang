@@ -10,8 +10,8 @@ role: A Hobbyist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Kentang 
+  url: https://www.github.com/kentang2017
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -36,19 +36,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'kinyeah@gmail.com'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: http://repository.lib.ied.edu.hk/jspui/browse?type=author&value=TANG%2C+Hoo+Kin+%E9%84%A7%E6%B5%A9%E5%A0%85
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kentang2017
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/tanghookin/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
