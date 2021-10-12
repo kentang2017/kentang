@@ -31,11 +31,10 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Analysing
-        * Modelling
-        * Deploying
+        * Marketing / Public Relations
+
         
 
 design:
-  columns: '1'
+  columns: '2'
 ---
