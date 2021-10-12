@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'emailto:kinyeah@gmail.com'
+  email: 'kinyeah@gmail.com'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: http://repository.lib.ied.edu.hk/jspui/browse?type=author&value=TANG%2C+Hoo+Kin+%E9%84%A7%E6%B5%A9%E5%A0%85
