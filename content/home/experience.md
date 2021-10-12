@@ -25,7 +25,7 @@ experience:
   - title: Marketing Manager
     company: Realord Group Holdings Limited 
     company_url: 'http://www.realord.com.hk'
-    company_logo: org-gc
+    company_logo: 'https://media-exp1.licdn.com/dms/image/C4E0BAQGFTHrX3Glxxw/company-logo_200_200/0/1519879118704?e=1642032000&v=beta&t=xTp6a1M1XvAFBdKeX98ayBN8PSj2dIkpQIdhMcXkYP8'
     location: Hong Kong
     date_start: '2015-08-04'
     date_end: ''
