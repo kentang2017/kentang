@@ -63,4 +63,3 @@ highlight_name: true
 
 Ken Tang is a hobbyist of artificial intelligence, Computational Linguistics, and Divination from Hong Kong. His research interests include IChing, Liuren, Qimen, Taiyi, Yanchin, Astrology and so on.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
