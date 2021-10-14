@@ -1,5 +1,5 @@
 ---
-title: 演禽壬遁 - An Android APP
+title: 演禽壬遁 - An Android application
 summary: A divination tool combined with Yanchin (演禽), Dailiuren (大六壬), and Qimendunjia (奇門遁甲).
 tags:
 - Android
