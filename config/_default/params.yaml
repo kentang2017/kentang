@@ -25,7 +25,7 @@ address:
   country: Hong Kong
 contact_links:
  
-  - icon: wechat
+  - icon: weixin
     icon_pack: fab
     name: gnatnek
   - icon: telegram
