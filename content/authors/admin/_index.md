@@ -61,5 +61,5 @@ email: ""
 highlight_name: true
 ---
 
-Ken Tang is a hobbyist of artificial intelligence, Computational Linguistics, and Divination from Hong Kong. His research interests include IChing, Liuren, Qimen, Taiyi, Yanchin, Astrology and so on.
+Ken Tang is a Hong Kong hobbyist of Artificial Intelligence, Computational Linguistics, and Divination. His research interests include IChing, Liuren, Qimen, Taiyi, Yanchin, Astrology and so on.
 
