@@ -1,4 +1,3 @@
-
 ---
 title: 易經筮法
 summary: A package of iching stalk divination in Traditional Chinese Language. Python周易筮法，納甲六爻，起卦不求人。
@@ -29,18 +28,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-# Python IchingShifa Python 周易 筮法 卜卦 (stalk divination)
-
-[![Python](https://img.shields.io/pypi/pyversions/ichingshifa)](https://pypi.org/project/ichingshifa/)
-[![PIP](https://img.shields.io/pypi/v/ichingshifa)](https://pypi.org/project/ichingshifa/)
-[![Downloads](https://img.shields.io/pypi/dm/ichingshifa)](https://pypi.org/project/ichingshifa/)
-[![TG](https://img.shields.io/badge/chat-on%20telegram-blue)](https://t.me/gnatnek)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.me/kinyeah)&nbsp;
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/a/af/French_Polished_Yarrow_stalks_from_LPKaster.jpg "Stalk divination")
 
 "筮"是傳統的周易起卦方式。古人以50根蓍草作為占卜工具，名為策，故此法亦稱"籌策"占卜。《周易系辭上傳》辭曰："大衍之數五十，其用四十有九。分而為二以像兩，掛一以像三， 揲之以四以像四時，歸奇於扐以像閏，五歲再閏，故再扐而後掛。 天一地二，天三地四，天五地六，天七地八，天九地十。天數五，地數五，五位相得而各有合。天數二十有五，地數三十，凡天地之數五十有五。此所以成變化而行鬼神也。"整個起卦過程是要求得十八個隨機數目，當中包括"六次"(即六根爻)的"三變"。
-
 
 **"Shi"(筮)** or so-called Stalk divination, one of the oldest IChing divination method in the Chinese society, in which the ancient Chinese used 50 sticks of yarrow stalks to do divination or prediction. According to Zhouyi 周易, the number of "Da Yan" (大衍) is 50 while 1 is taken away and 49 sticks of yarrow stalks were used in divination. 49 stalks were seperated into 2 bunches respectively held by both left hand and right hand, and then one stick would be extracted from the right hand, the bunch of stalks held by right hand was divided by four, until the remainder comes, that is called the change (or 'bian'), repeating thrice. The whole process of this divination includes getting 18 random numbers. The value of Line may come after  "Three Changes", that is  (49 stalks - first change - second change - third change) divided by 4, it will be either **6(old yin 老陰)**, **7(young yang 少陽)**, **8(young yin 少陰)**, or **9(old yang 老陽)**.  The BenGua (本卦) is formed when the value of Line is formed from the bottom to the top. If the line with value of either 6 or 9, meaning that line must have a change, like 6(old yin) change to 7(young yang), and 9 (old yang) change to 8 (old yin). Each of the lines has its own meaning or explantion. BianGua (變卦) or ZhiGua (之卦) is also formed after BenGua with value 6 or 9 has been changed. 
 
@@ -93,7 +82,7 @@ _The above method is advocated by ZhuXi, a Confucian of Song Dynasty_
 
 ![alt text](https://github.com/kentang2017/iching_shifa/blob/master/data/results.png?raw=true)
 
-## **3. 納甲 Najia **:
+## **3. 納甲 Najia**
 其後漢元帝師從梁人焦延壽的京房開創京氏易學，把筮法加入干支納甲，後世學者再加以五行、五星、六親及二十八宿等加以詳推。
 
 Later on, an iching expert Jing Fang during the Han Dynasty created a najia method of hexagram interpretation amongiching. which correlates their separate lines with elements of the Chinese calendar.
