@@ -3,7 +3,7 @@ title: 易經筮法
 summary: A package of iching stalk divination in Traditional Chinese Language. Python周易筮法，納甲六爻，起卦不求人。
 tags:
 - Python
-date: "2016-04-27T00:00:00Z"
+date: "2019-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
