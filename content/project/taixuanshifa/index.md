@@ -1,5 +1,5 @@
 ---
-title: 太玄筮法
+title: 太玄筮法 - A Python package
 summary: An alternative Iching divination tool name Tai Xuan created by a Chinese Confucian Yang Xiong (BC53 - 18CE) from Xi Han Dynasty.
 tags:
 - Python
