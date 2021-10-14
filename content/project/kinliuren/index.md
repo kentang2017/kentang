@@ -1,5 +1,5 @@
 ---
-title: 堅六壬
+title: 堅六壬 - A Python package
 summary: Dailiuren (大六壬) is one of the three greatest Chinese Divination systems ever.
 tags:
 - Python
