@@ -3,7 +3,7 @@ title: 太玄筮法
 summary: An alternative Iching divination tool name Tai Xuan created by a Chinese Confucian Yang Xiong (BC53 - 18CE) from Xi Han Dynasty.
 tags:
 - Python
-date: "2016-04-27T00:00:00Z"
+date: "2020-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
