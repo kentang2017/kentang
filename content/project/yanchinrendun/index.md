@@ -3,7 +3,7 @@ title: 演禽壬遁
 summary: A divination tool combined with Yanchin (演禽), Dailiuren (大六壬), and Qimendunjia (奇門遁甲).
 tags:
 - Android
-date: "2016-04-27T00:00:00Z"
+date: "2021-10-13T13:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
