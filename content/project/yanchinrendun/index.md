@@ -40,7 +40,7 @@ slides: ""
 6. 年月日時禽暗金伏斷顯示及明汪漢謀著的《參籌秘書》日局時局排盤斷語
 7. 顯示七政四余(西洋占星)星盤方位
 
-!<img src="https://github.com/kentang2017/kentang/blob/master/content/project/yanchinrendun/WeChat%20%E5%9C%96%E7%89%87_20211013232551.jpg" width="300"> !<img src="https://github.com/kentang2017/kentang/blob/master/content/project/yanchinrendun/WeChat%20%E5%9C%96%E7%89%87_20211013232557.jpg" width="300">
+!(https://github.com/kentang2017/kentang/blob/master/content/project/yanchinrendun/WeChat%20%E5%9C%96%E7%89%87_20211013232551.jpg) !(https://github.com/kentang2017/kentang/blob/master/content/project/yanchinrendun/WeChat%20%E5%9C%96%E7%89%87_20211013232557.jpg)
 
 
 
