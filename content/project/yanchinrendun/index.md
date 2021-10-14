@@ -12,10 +12,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: github
+- icon: google
   icon_pack: fab
-  name: Github
-  url: https://github.com/kentang2017
+  name: Google Playstore
+  url: https://play.google.com/store/apps/details?id=com.kentang.renchinliuren
 url_code: ""
 url_pdf: ""
 url_slides: ""
