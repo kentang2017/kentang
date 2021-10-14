@@ -1,5 +1,5 @@
 ---
-title: 堅奇門
+title: 堅奇門 - A Python package
 summary: Qimendunjia (奇門遁甲) is one of the three greatest Chinese Divination systems ever. This package includes hour-based Qimen and Golden Letter Jade Mirror (金函玉鏡) day-based Qimen
 tags:
 - Python
