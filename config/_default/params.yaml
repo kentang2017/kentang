@@ -21,10 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: kinyeah@gmail.com
-address:
-  country: Hong Kong
 contact_links:
- 
   - icon: weixin
     icon_pack: fab
     name: gnatnek
