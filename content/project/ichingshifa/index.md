@@ -16,6 +16,12 @@ links:
   icon_pack: fab
   name: Github
   url: https://github.com/kentang2017
+
+- icon: python
+  icon_pack: fab
+  name: PYPI
+  url: https://pypi.org/project/ichingshifa/
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
